@@ -1,2 +1,15 @@
-# Mood-Based-Music-Recommendation-System
-Smart Expense Tracker is a simple Java-based application that helps users manage and track their daily expenses efficiently. It allows users to record transactions, categorize spending, and view summaries, helping them understand their financial habits and improve budgeting.
+# Mood-Based Music Recommendation System
+
+This project recommends music based on the user's mood. 
+The system takes the user's mood as input and suggests songs that match that mood using a dataset of songs.
+
+Features:
+- Mood detection input (happy, sad, energetic, calm, etc.)
+- Song recommendation based on mood
+- Uses a CSV dataset of songs
+- Implemented using Python
+  
+Technologies Used:
+- Python
+- Pandas
+- CSV dataset
